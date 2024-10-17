@@ -1,8 +1,9 @@
 {
   "name": "cdk-constructs-serverless",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library for cdk/sst constructs utils",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest",
